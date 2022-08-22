@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Dr Bhadra Santhi Kumar Ph.D
 
-You can use the [editor on GitHub](https://github.com/bhadrask/bhadrask.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Electronics Engineer turned Neuroscientist with 7+ years of research experience and expertise in Computational Modelling. Matlab and Python are my favourite coding languages.  As the team leader of my research group at IIT Madras, The Neurovascular Team, I am experienced in implementing a project from conceptual stage to publication stage and in team management. I am skilled in technical and non technical writing and also have excellent presentation skills. 
+I aspire to make use of Artificial Intelligence for the betterment of humanity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Research Areas
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

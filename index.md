@@ -9,7 +9,7 @@ I aspire to make use of Artificial Intelligence for the betterment of humanity.
 ### (1) The Artificial Neurovascular Network
 ![fig1](/images/ANVN_thumbnail.png)
 <br>The ANVN (Artificial Neuro Vascular Network), investigates the need to train the vascular network along with the neural network to ensure energy efficiency. In ANVN, the neural network was modeled using an MLP (multi-layered perceptron network) with a single hidden layer, and the vascular network perfusing the hidden layer was modeled using a tree-structured energy network with weighted branches. The study shows that the vascular network needs to be simultaneously trained with the neural network to ensure energy efficiency. It also suggests that energy-efficient neurovascular network trades off energy efficiency with accuracy, and the energy consumption of a neuron correlates with its contribution to the network’s accuracy.
-<br> [Publication Link](https://www.nature.com/articles/s41598-021-92661-7)
+<br> [[Publication Link]](https://www.nature.com/articles/s41598-021-92661-7)
 ### (2) The Influence of Vascular Feedback on Neural Plasticity
 ![fig2](/images/thumbnail.png)
 <br>To explore the effect of vascular feedback on neural plasticity, we designed the L-VAN (LISSOM-Vascular Anatomical Network). In the L-VAN model, a modified balloon model is used to simulate the vasculature and it is integratedwith a rate-coded neural network such that the hemodynamic response to neural activity closely matches the biologically observed values in rat whisker barrel cortex. The L-VAN model shows that neural plasticity can be affected by variations in vascular feedback caused by pathologies like hypoxia and hypoxia-ischemia.

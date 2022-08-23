@@ -14,7 +14,7 @@ I aspire to make use of Artificial Intelligence for the betterment of humanity.
 ### (4) Vascular Arborization Model
 ![fig4](/images/VAM_thumbnail.png)
 ### (5) Phase and Amplitude Modulation in a Neural Oscillatory Model of the Orientation Map
-
+![fig4](/images/NFM_thumbnail.png)
 <!-- ```markdown
 Syntax highlighted code block
 

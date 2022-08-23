@@ -5,11 +5,11 @@ I aspire to make use of Artificial Intelligence for the betterment of humanity.
 
 ## Research Areas
 
-### Artificial Neurovascular Network
-### The Influence of Vascular Feedback on Neural Plasticity
-### Do vessels require lateral connectivity? 
-### Vascular Arborization Model
-### Phase and Amplitude Modulation in a Neural Oscillatory Model of the Orientation Map
+### (1) Artificial Neurovascular Network
+### (2) The Influence of Vascular Feedback on Neural Plasticity
+### (3) Do vessels require lateral connectivity? 
+### (4) Vascular Arborization Model
+### (5) Phase and Amplitude Modulation in a Neural Oscillatory Model of the Orientation Map
 
 <!-- ```markdown
 Syntax highlighted code block

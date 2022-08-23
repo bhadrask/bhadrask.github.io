@@ -12,6 +12,7 @@ I aspire to make use of Artificial Intelligence for the betterment of humanity.
 ### (2) The Influence of Vascular Feedback on Neural Plasticity
 ![fig2](/images/thumbnail.png)
 <br>To explore the effect of vascular feedback on neural plasticity, we designed the L-VAN (LISSOM-Vascular Anatomical Network). In the L-VAN model, a modified balloon model is used to simulate the vasculature and it is integratedwith a rate-coded neural network such that the hemodynamic response to neural activity closely matches the biologically observed values in rat whisker barrel cortex. The L-VAN model shows that neural plasticity can be affected by variations in vascular feedback caused by pathologies like hypoxia and hypoxia-ischemia.
+<br> [More details](https://www.frontiersin.org/articles/10.3389/fncom.2021.638700/full)
 ### (3) Do vessels require lateral connectivity? 
 ![fig3](/images/NVLIN_thumbnail.png)
 <br>The NV-LIN (Neuro Vascular coupling using Laterally Interconnected Networks) explores the possibility of active lateral connections among the vascular network similar to the neural network. The neural and vascular networks in NV-LIN are simulated using LISSOM (Laterally Interconnected Synergistically Self Organizing Map). The study suggests that the vascular network should have active lateral connectivity with an ON center OFF surround characteristic. It also predicts that the nature of neural map formation could depend on the area of perfusion field of the vessels, emphasizing the role of the vasculature in modulating the information processing of the brain.

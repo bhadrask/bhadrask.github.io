@@ -9,15 +9,15 @@ I am an Electronics Engineer turned Neuroscientist with 7+ years of research exp
 ### (1) The Artificial Neurovascular Network
 ![fig1](/images/ANVN_thumbnail.png)
 <br>The ANVN (Artificial Neuro Vascular Network), investigates the need to train the vascular network along with the neural network to ensure energy efficiency. In ANVN, the neural network was modeled using an MLP (multi-layered perceptron network) with a single hidden layer, and the vascular network perfusing the hidden layer was modeled using a tree-structured energy network with weighted branches. The study shows that the vascular network needs to be simultaneously trained with the neural network to ensure energy efficiency. It also suggests that energy-efficient neurovascular network trades off energy efficiency with accuracy, and the energy consumption of a neuron correlates with its contribution to the network’s accuracy.
-<br> [[Publication Link]](https://www.nature.com/articles/s41598-021-92661-7)
+<br> [[Publication Link]](https://www.nature.com/articles/s41598-021-92661-7), [[Code]](https://github.com/bhadrask/ARTIFICIAL_NEUROVASCULAR_NETWORK_ANVN)
 ### (2) The Influence of Vascular Feedback on Neural Plasticity
 ![fig2](/images/thumbnail.png)
 <br>To explore the effect of vascular feedback on neural plasticity, we designed the L-VAN (LISSOM-Vascular Anatomical Network). In the L-VAN model, a modified balloon model is used to simulate the vasculature and it is integratedwith a rate-coded neural network such that the hemodynamic response to neural activity closely matches the biologically observed values in rat whisker barrel cortex. The L-VAN model shows that neural plasticity can be affected by variations in vascular feedback caused by pathologies like hypoxia and hypoxia-ischemia.
-<br> [[Publication Link]](https://www.frontiersin.org/articles/10.3389/fncom.2021.638700/full)
+<br> [[Publication Link]](https://www.frontiersin.org/articles/10.3389/fncom.2021.638700/full), [[Code]](https://github.com/bhadrask/WHISKER-BARREL-PLASTICITY-NV-MODEL)
 ### (3) Do vessels require lateral connectivity? 
 ![fig3](/images/NVLIN_thumbnail.png)
 <br>The NV-LIN (Neuro Vascular coupling using Laterally Interconnected Networks) explores the possibility of active lateral connections among the vascular network similar to the neural network. The neural and vascular networks in NV-LIN are simulated using LISSOM (Laterally Interconnected Synergistically Self Organizing Map). The study suggests that the vascular network should have active lateral connectivity with an ON center OFF surround characteristic. It also predicts that the nature of neural map formation could depend on the area of perfusion field of the vessels, emphasizing the role of the vasculature in modulating the information processing of the brain.
-<br> [[Bioarxiv link]](https://www.biorxiv.org/content/10.1101/2021.12.24.474094v2.full)
+<br> [[Bioarxiv link]](https://www.biorxiv.org/content/10.1101/2021.12.24.474094v2.full),
 ### (4) Vascular Arborization Model
 ![fig4](/images/VAM_thumbnail.png)
 <br>The VAM (vascular arborization model), proposes an algorithm to simulate the vascular tree growth from the embryo stage to the adult stage in the murine cortex. The VAM model simulates the growth of the neurovascular network in a 3-dimensional space. The vascular network in VAM that grows and spans the cortical tissues under the influence of cytoarchitecture of the cortical tissues and the neural activity can capture the biologically observed vascular density and branch density distribution under control and lesioned conditions.

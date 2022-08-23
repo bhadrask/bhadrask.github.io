@@ -55,13 +55,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
 ## Publications
-Journal Publications:
+**Journal Publications:
 1. Kumar, Bhadra S., Menon, Sarath., et al. "The Influence of Neural Activity and Neural Cytoarchitecture on Cerebrovascular Arborization: A Computational Model." Frontiers in Neuroscience (2022): 933. [[Link]](https://www.frontiersin.org/articles/10.3389/fnins.2022.917196/full)
 2. Kumar, B. S., Khot, A., Chakravarthy, V. S. & Pushpavanam, S. A Network Architecture for Bidirectional Neurovascular Coupling in Rat Whisker Barrel Cortex. Front. Comput. Neurosci. 15, 51 (2021). [[Link]](https://www.frontiersin.org/articles/10.3389/fncom.2021.638700/full)
 3. Kumar, B. S., Mayakkannan, N., Manojna, N. S. & Chakravarthy, V. S. Artificial neurovascular network (ANVN) to study the accuracy vs. efficiency trade-off in an energy dependent neural network. Sci. Rep. 11, 1–19 (2021).[[Link]](https://www.nature.com/articles/s41598-021-92661-7)
-Manuscripts under review (Available online as preprints)
+<br> **Manuscripts under review (Available online as preprints)
 1. Kumar, B. S., O’Herron, P., Kara, P. & Chakravarthy, V. S. The development of bi-directionally coupled self organizing neurovascular networks captures orientation-selective neural and hemodynamic cortical responses. bioRxiv 2021.12.24.474094 (2021) doi:10.1101/2021.12.24.474094. [[Bioarxiv link]](https://www.biorxiv.org/content/10.1101/2021.12.24.474094v2.full)
-Conference Presentations 
+<br> **Conference Presentations 
 1. Kumar, B.S., Menon,S., et al. "A computational model to study the effect of neural activity and cytoarchitecture on vascular arborization", Journal of Cerebral Blood Flow and Metabolism, Brain and Brain PET, Glasgow, May 2022.
 2. Kumar, B.S., Menon,S., et al. "A computational model to simulate vascular arborization based on neuron cytoarchitecture", SFN 2021 (Online), November 2021
 3. Kumar, B.S., Mayakkannan, N., et al. "Attractor Dynamics in the Energy - Accuracy Space in an Artificial Neurovascular Network", Bernstein conference (Online), September 2020

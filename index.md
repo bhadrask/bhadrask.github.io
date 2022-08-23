@@ -6,11 +6,13 @@ I aspire to make use of Artificial Intelligence for the betterment of humanity.
 ## Research Areas
 
 ### (1) The Artificial Neurovascular Network
+![fig1](/images/ANVN_thumbnail.png)
 ### (2) The Influence of Vascular Feedback on Neural Plasticity
-![fig1](/images/thumbnail.png)
+![fig2](/images/thumbnail.png)
 ### (3) Do vessels require lateral connectivity? 
+![fig3](/images/NVLIN_thumbnail.tif)
 ### (4) Vascular Arborization Model
-![fig2](/images/VAM_thumbnail.png)
+![fig4](/images/VAM_thumbnail.png)
 ### (5) Phase and Amplitude Modulation in a Neural Oscillatory Model of the Orientation Map
 
 <!-- ```markdown

@@ -5,7 +5,7 @@ I aspire to make use of Artificial Intelligence for the betterment of humanity.
 
 ## Research Areas
 
-### (1) Artificial Neurovascular Network
+### (1) The Artificial Neurovascular Network
 ### (2) The Influence of Vascular Feedback on Neural Plasticity
 ![fig1](/images/thumbnail.png)
 ### (3) Do vessels require lateral connectivity? 

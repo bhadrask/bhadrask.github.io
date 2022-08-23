@@ -24,35 +24,8 @@ I am an Electronics Engineer turned Neuroscientist with 7+ years of research exp
 ### (5) Phase and Amplitude Modulation in a Neural Oscillatory Model of the Orientation Map
 ![fig4](/images/NFM_thumbnail.png)
 <br>We proposed a neural field model (n x n) of an orientation map in which the orientation information is encoded in the spatio-temporal response of the neural field. The model consists of a laterally connected 2D layer of FN neurons. Oriented bar patterns are used to train a SOM (n x n), whose output is presented to the NFM in a one to-one fashion. The neural field model was shown to exist in two regimes: in the excitatory regime for lower values of the offset parameter, and in the oscillatory regime for higher values of the offset parameter.The NFM model encoded the input orientation information primarily using amplitude modulation while in excitatory regime and using phase modulation while in the oscillatory regime
-<br> [[Publication Link]](https://link.springer.com/chapter/10.1007/978-3-030-04179-3_19), [[Code (*Available on request)]](https://github.com/bhadrask/NFM)
-<!-- ```markdown
-Syntax highlighted code block
+<br> [[Publication Link]](https://link.springer.com/chapter/10.1007/978-3-030-04179-3_19), [Code (*Available on request)](https://github.com/bhadrask/NFM)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-``` -->
-
-<!--For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhadrask/bhadrask.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
--->
 ## Publications
 **Journal Publications:**
 1. Kumar, Bhadra S., Menon, Sarath., et al. "The Influence of Neural Activity and Neural Cytoarchitecture on Cerebrovascular Arborization: A Computational Model." Frontiers in Neuroscience (2022): 933. [[Link]](https://www.frontiersin.org/articles/10.3389/fnins.2022.917196/full)
